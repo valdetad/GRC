@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GRC</string>
+    <string name="click_me_to_start_the_list">Click Me To Start The List</string>
+    <string name="fruits">Fruits</string>
+
+    <string name="btnAddText">Add</string>
+    <string name="btnUpdateText">Update</string>
+    <string name="btnDeleteText">Delete</string>
+</resources>
