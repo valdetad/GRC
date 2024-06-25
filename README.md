@@ -1,4 +1,4 @@
-#Grocerry Store List Application
+# Grocerry Store List Application
 
 * @author Valdeta Demiri
  * Date Created: 10.03.2023
